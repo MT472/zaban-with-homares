@@ -1,0 +1,114 @@
+/* سی اس اس سلام و معرفی بخش اول */
+.tnt{
+    height: 750px;
+    width: 750px;
+    position: relative;
+}
+.vv{
+    position: absolute;
+    top: 400px;
+    right: 1030px;
+    font-size: 300%;
+}
+.ee{
+    position: absolute;
+    top: 250px;
+    right: 990px;
+    font-size: 300%;
+}
+.dd{
+    position: absolute;
+    top: 110px;
+    right: 950px;
+    font-size: 400%;
+}
+/* سی اس اس سلام و معرفی بخش اول */
+
+
+/*بی خط کردن این تگ */
+a{
+    text-decoration-line:none ;
+}
+/*بی خط کردن این تگ */
+
+
+/* سی اس اس بخش مستطیل های فهرست*/
+.imgbox{
+    position: relative;
+}
+.gh{
+    width: 800px;
+    height: 200px;
+}
+.pp{
+    position: absolute;
+    top: 73px;
+    right: 680px; 
+    color: yellow;
+    font-size: 300%;
+}
+.ph{
+    position: absolute;
+    top: 73px;
+    right: 700px; ;
+    color: yellow;
+    font-size: 300%;
+}
+.ll{
+    position: absolute;
+    top: 73px;
+    right: 670px; 
+    color: yellow;
+    font-size: 300%;
+}
+/* سی اس اس بخش مستطیل های فهرست*/
+
+
+/*سی اس اس ارتباط با ما */
+footer{
+   
+    box-sizing: border-box;
+    background-color: black;
+}
+.h5{
+    color: white;
+}
+.pk p{
+    color: white;
+    font-size: 50px;
+}
+.pk h5{
+    position: absolute;
+    font-size:200% ;
+    right: 50px;
+}
+/*سی اس اس ارتباط با ما */
+
+
+/* سی اس اس بخش توضیحات اولین صفحه*/
+.hh{
+    font-size:250%;
+}
+.div{
+    background-color: aqua;
+}
+.xx{
+    font-size: 400%;
+}
+/* سی اس اس بخش توضیحات اولین صفحه*/
+
+
+/*تعریف فونت ها */
+@font-face{
+    font-family: h2 ;
+    src :url(font/simpfxo.ttf);
+}
+@font-face{
+    font-family: p ;
+    src :url(font/msuighur.ttf);
+}
+@font-face{
+    font-family: h5 ;
+    src :url(font/arabtype.ttf);
+}
+/*تعریف فونت ها */
